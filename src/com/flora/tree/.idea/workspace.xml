@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="460bab62-f8f8-4ef9-b0e8-30b2d24af1ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EEudxyG1BQnYvGYLRUG0KIrf4G" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.DijkstraAlgorithm">
+    <configuration name="DijkstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dac.DijkstraAlgorithm" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dac.GreedyAlgorithm" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMPAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dac.KMPAlgorithm" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KruskalCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dac.KruskalCase" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dac.PrimAlgorithm" />
+      <module name="tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DijkstraAlgorithm" />
+        <item itemvalue="Application.KruskalCase" />
+        <item itemvalue="Application.PrimAlgorithm" />
+        <item itemvalue="Application.GreedyAlgorithm" />
+        <item itemvalue="Application.KMPAlgorithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="460bab62-f8f8-4ef9-b0e8-30b2d24af1ed" name="Default Changelist" comment="" />
+      <created>1662173156330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662173156330</updated>
+      <workItem from="1662173163562" duration="46718000" />
+      <workItem from="1663033898185" duration="67617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="287" key="#Notifications" timestamp="1662469431332">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="604" y="287" key="#Notifications/0.25.1440.790@0.25.1440.790" timestamp="1662469431332" />
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1663225571192">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser/0.25.1440.790@0.25.1440.790" timestamp="1663225571192" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom" timestamp="1664188412821">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1663310548949" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1663033223338" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1664188412821" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center" timestamp="1664188412701">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1663310548947" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1663033223338" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1664188412701" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left" timestamp="1664188412701">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1663310548945" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1663033223325" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1664188412701" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right" timestamp="1664188412708">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1663310548948" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1663033223338" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1664188412708" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1664188412824">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1663166296793" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.791@0.25.1440.791" timestamp="1663033223339" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.25.1440.794@0.25.1440.794" timestamp="1664188412824" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1664188412822">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1663166296793" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.791@0.25.1440.791" timestamp="1663033223339" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.25.1440.794@0.25.1440.794" timestamp="1664188412822" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1664188412822">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1663166296792" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.791@0.25.1440.791" timestamp="1663033223338" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.25.1440.794@0.25.1440.794" timestamp="1664188412822" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1664188412822">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1663166296793" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.791@0.25.1440.791" timestamp="1663033223339" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.25.1440.794@0.25.1440.794" timestamp="1664188412822" />
+    <state x="264" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1663032538411">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="264" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.791@0.25.1440.791" timestamp="1663032538411" />
+    <state x="126" y="25" key="new project wizard" timestamp="1662697393462">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="126" y="25" key="new project wizard/0.25.1440.791@0.25.1440.791" timestamp="1662697393462" />
+    <state x="385" y="139" width="670" height="677" key="search.everywhere.popup" timestamp="1662690373713">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="385" y="139" width="670" height="676" key="search.everywhere.popup/0.25.1440.790@0.25.1440.790" timestamp="1662468597887" />
+    <state x="385" y="139" width="670" height="677" key="search.everywhere.popup/0.25.1440.791@0.25.1440.791" timestamp="1662690373713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/graph/Graph.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
